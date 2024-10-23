@@ -5,3 +5,4 @@ Topic: Financial QA - Agentic RAG with Multiple Tools
 **File list**
 - Final_Project_Skeleton_v1.ipynb: Skeleton code for the project
 - db.zip: Compressed vector DB for financial reports
+  - db.z01~db.z03: Splitted zip file
