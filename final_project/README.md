@@ -5,6 +5,7 @@ Topic: Financial QA - Agentic RAG with Multiple Tools
 **File list**
 - Final_Project_Skeleton_v1.ipynb: Skeleton code for the project
 - db.zip: Compressed vector DB for financial reports (built on train.json in FinQA, so you should change the DB with the test.json in FinQA)
+- test_db.zip: Compressed vector DB for financial reports, built on test.json in FinQA. You can use this file for the accuracy test.
 
 # Documentation
 
